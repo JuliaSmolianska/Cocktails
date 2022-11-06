@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+span {
+  font-size: 20px;
+  color: red;
+  margin: 0 5px;
+}
+
+span:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
